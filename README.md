@@ -1,0 +1,1 @@
+# Prediction-Visitor-Purchases-with-a-Classification-Model-in-BigQuery-ML
